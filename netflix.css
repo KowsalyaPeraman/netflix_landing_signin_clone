@@ -1,0 +1,97 @@
+body {
+  background-image: url("./assests/b42f7780-0fe1-11eb-8460-e459acd20fb4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 700px;
+  font-family: sans-serif;
+}
+
+img {
+  position: absolute;
+  top: 14px;
+  left: 36px;
+  width: 150px;
+}
+
+.signin {
+  background-color: rgba(0, 0, 0, 0.795);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px 0 black;
+  height: 450px;
+  width: 300px;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  margin-top: 10px;
+  margin-bottom: 6px;
+  background-color: rgba(48, 48, 48, 0.777);
+  height: 30px;
+  width: 265px;
+  padding: 6px;
+  padding-left: 12px;
+  border-radius: 4px;
+  border-style: none;
+  color: white;
+}
+
+button {
+  margin-top: 24px;
+  background-color: rgb(213, 16, 16);
+  padding: 12px;
+  border-style: none;
+  border-radius: 4px;
+  width: 284px;
+  color: white;
+  margin-bottom: 8px;
+  ;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.checkbox {
+  font-size: 14px;
+}
+
+.checkbox a {
+  float: right;
+  margin-right: 22px;
+  text-decoration: none;
+  color: white;
+}
+
+.sign-up-now {
+  margin-top: 70px;
+}
+
+.sign-up-now a {
+  text-decoration: none;
+  color: rgb(60, 60, 248);
+}
+
+#para1 a {
+  color: white;
+}
+
+.sign-up-now p {
+  color: rgb(133, 130, 130);
+}
+
+#para2 {
+  font-size: 12px;
+  color: rgb(133, 130, 130);
+  line-height: 16px;
+} 
+
